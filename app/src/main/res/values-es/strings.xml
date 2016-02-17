@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PutaVida</string>
+    <string name="b1">Pulsar</string>
+    <string name="texto">Texto</string>
+    <string name="str_edittext" translatable="false">tlf, web, msg, loc</string>
+</resources>

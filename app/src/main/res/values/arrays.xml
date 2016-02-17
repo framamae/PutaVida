@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_text">
+        <item>Phone dialer</item>
+        <item>Web brouser</item>
+        <item>Messaging</item>
+        <item>Geolocation</item>
+    </string-array>
+
+
+</resources>
